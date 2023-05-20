@@ -1,4 +1,4 @@
-# Hi I'm Predy
+# Hi
 #### Nice to meet you!
 <!--#### I work as a developer at Samsung Semes-->
 

@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hi I'm Predy
+## I work as a developer at Samsung Semes
 
+
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <!--
 **Predy0616/Predy0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

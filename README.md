@@ -1,6 +1,5 @@
 # Hi
 #### Nice to meet you!
-<!--#### I work as a developer at Samsung Semes-->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=predy)](https://solved.ac/predy/)
 

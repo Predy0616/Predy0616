@@ -1,5 +1,4 @@
 # Hi
-#### Nice to meet you!
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=predy)](https://solved.ac/predy/)
 

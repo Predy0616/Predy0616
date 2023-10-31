@@ -1,7 +1,10 @@
 # **!**
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=predy)](https://solved.ac/predy/)
+# <center> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=predy)](https://solved.ac/predy/) </center>
+</br>
 
+  
+![Predy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Predy&show_icons=true&theme=highcontrast)  
 <!--![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=predy) -->
 
 <!--<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>-->
